@@ -1,0 +1,17 @@
+body{
+    background-image:url(sky.jpg);
+}
+h2{
+    text-align: center;
+    color: tomato;
+}
+
+p.p1{
+    box-sizing: border-box;
+    width: 300px;
+    height: 100px;
+    padding: 30px;  
+    border: 0px;
+    align-content: center;
+    
+}
